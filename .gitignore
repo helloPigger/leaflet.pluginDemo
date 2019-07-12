@@ -1,0 +1,16 @@
+.DS_Store
+*.rdb
+*.log
+.idea
+.nyc_output
+node_modules
+docs
+# dist
+public
+src
+test
+.*
+!.gitignore
+webpack.config.js
+publish.sh
+babel.config.js
